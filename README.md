@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tkirk70
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python and SQL
+-   - Certificates: https://confirm.udacity.com/XEJV2XAY
 - 💞️ I’m looking to collaborate on finding an analyst position
 - 📫 How to reach me linkedin.com/in/timothy-kirk-03a63b9
 
