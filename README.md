@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tkirk70
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently studying at Ohio State University's Data Analytics Bootcamp. 
 -   - Certificates: https://confirm.udacity.com/XEJV2XAY
-- 💞️ I’m looking to collaborate on finding an analyst position
+- 💞️ I’m looking to collaborate on find an analyst position.
 - 📫 How to reach me linkedin.com/in/timothy-kirk-03a63b9
 
 <!---
