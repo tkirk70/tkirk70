@@ -6,7 +6,7 @@
  
 📝 Certificates: https://confirm.udacity.com/XEJV2XAY
 
-💞️ I’m looking to collaborate on find an analyst position.
+💞️ I’m looking to collaborate and find an analyst position.
 
 📫 How to reach me [LinkedIn](https://linkedin.com/in/timothy-kirk-03a63b9) or [Stack Overflow](https://stackoverflow.com/users/17054803/timothy-kirk)
 
