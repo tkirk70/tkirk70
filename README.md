@@ -4,7 +4,7 @@
 
 🏫 Recently graduated from Ohio State University's Data Analytics Bootcamp - May 2022.
 
- 
+ ![](cert.PNG)
  
 📝 Certificates: https://confirm.udacity.com/XEJV2XAY
 
