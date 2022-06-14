@@ -13,6 +13,8 @@
 💞️ I’m looking to collaborate and find an analyst position.
 
 📫 How to reach me [LinkedIn](https://linkedin.com/in/timothy-kirk-03a63b9) or [Stack Overflow](https://stackoverflow.com/users/17054803/timothy-kirk)
+ 
+ :star2: [Portfolio](https://tkirk70.github.io/tkirk70_portfolio.io/)
 
 <!---
 tkirk70/tkirk70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
