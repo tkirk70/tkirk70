@@ -2,7 +2,9 @@
 
 👀 I’m interested in Data Analytics.
 
-🏫 I’m currently studying at Ohio State University's Data Analytics Bootcamp.
+🏫 Recently graduated from Ohio State University's Data Analytics Bootcamp - May 2022.
+
+ 
  
 📝 Certificates: https://confirm.udacity.com/XEJV2XAY
 
